@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm a passionate software developer and always rea
 ## ⚡ About Me  
 - 💻 **Tech Enthusiast**: Exploring various tech stacks to build scalable solutions.
 - 🚀 **Always Learning**: Continuously improving through apprenticeships and courses.
-[comment]: <> (- 🌐 **Open Source Contributor**: Actively contributing to the community.)
 - 💡 **Problem Solver**: Enjoy tackling challenges and creating meaningful software.
 
 ## ⚙️ GitHub Stats  
